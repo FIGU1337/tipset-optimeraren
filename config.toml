@@ -1,0 +1,5 @@
+# Gemensamma inställningar för Streamlit (lokalt och på server).
+# Hemligheter (nycklar, lösenord) hör INTE hemma här – de ligger i secrets.toml.
+
+[browser]
+gatherUsageStats = false

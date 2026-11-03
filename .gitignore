@@ -1,0 +1,9 @@
+# Hemligheter – får aldrig laddas upp
+.streamlit/secrets.toml
+.streamlit/secrets.toml.txt
+
+# Python / miljöer
+__pycache__/
+*.pyc
+.venv/
+venv/
